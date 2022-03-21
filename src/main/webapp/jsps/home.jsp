@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark technology, Global Office.</h1>
-<h1 align="center">We are developing and supporting quality Software engineering Solutions and serving over 500 millions clients.
+<h1 align="center">Welcome to Landmark technology solution centre, Global Office.</h1>
+<h1 align="center">We are developing and supporting quality Software engineering Solutions and serving over 500 millions clients globally.
 	We also offer Training for DevOps with Linux and Cloud Engineers for best performance.</h1>
 <hr>
 <br>
